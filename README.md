@@ -22,7 +22,7 @@
       <h3>Ballet</h3>
       <p>Danza clásica que combina gracia, técnica y expresión corporal. Ideal para desarrollar postura y disciplina.</p>
     </section>
-
+     <img src="https://media.vogue.mx/photos/6694a2b6fb8dbd752447a524/1:1/w_2981,h_2981,c_limit/isaac-hernandez-ballet.jpg" alt="Ballet">
     <section>
       <h3>Flamenco</h3>
       <p>Estilo apasionado de origen español que combina zapateado, palmas y movimientos intensos del cuerpo.</p>
