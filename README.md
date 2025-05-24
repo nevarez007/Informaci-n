@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -12,7 +11,7 @@
       <a href="https://nevarez007.github.io/Danza/index.html">Inicio</a>
       <a href="https://nevarez007.github.io/clase/">Clases</a>
       <a href="https://nevarez007.github.io/contacto/">Contacto</a>
-      <a href="estilos.html">Estilos</a>
+      <a href="https://nevarez007.github.io/Informaci-n/">Estilos</a>
     </nav>
   </header>
 
