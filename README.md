@@ -22,16 +22,19 @@
       <h3>Ballet</h3>
       <p>Danza clásica que combina gracia, técnica y expresión corporal. Ideal para desarrollar postura y disciplina.</p>
     </section>
-     <img src="https://media.vogue.mx/photos/6694a2b6fb8dbd752447a524/1:1/w_2981,h_2981,c_limit/isaac-hernandez-ballet.jpg" alt="Ballet">
+     <img src="https://media.vogue.mx/photos/6694a2b6fb8dbd7524478a524/1:1/w_2981,h_2981,c_limit/isaac-hernandez-ballet.jpg" alt="Ballet">
     <section>
+    
       <h3>Flamenco</h3>
       <p>Estilo apasionado de origen español que combina zapateado, palmas y movimientos intensos del cuerpo.</p>
     </section>
+    <img src="https://www.utrgv.edu/claa/_files/images/fig-11-flamenco.jpg" alt="Ballet">
 
     <section>
       <h3>Jazz</h3>
       <p>Estilo moderno con gran energía y movimientos rápidos. Combina técnica y libertad expresiva.</p>
     </section>
+    <img src="https://lh5.googleusercontent.com/proxy/lNS7b3MI9F2xG2d3y9u2Q9CltZJ4OeRtv540BC75zNRUBQcefz8QB_Y_5m5Lq7d4qYHW5LFPpxn3K1SrO5h7oYxINOi9xBTX_bpqJ-9UZDv33pkTOJxE_bWk7TEf8_kjr6rcq7lMPyIsLGHCyBeXVoAzDw" alt="Ballet">
 
     <section>
       <h3>Tango</h3>
