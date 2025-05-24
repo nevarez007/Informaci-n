@@ -40,16 +40,20 @@
       <h3>Tango</h3>
       <p>Danza sensual de origen argentino, se caracteriza por sus pasos elegantes y conexión entre los bailarines.</p>
     </section>
+     <img src="https://centroculturalborges.gob.ar/wp-content/uploads/2023/03/Joha-y-David-b-Johana-Copes-1-1-1.jpg" alt="Ballet">
 
     <section>
       <h3>Salsa</h3>
       <p>Estilo latino lleno de ritmo y alegría. Se baila en pareja y es muy popular en fiestas y academias.</p>
     </section>
+    <img src="https://lacapillacultural.com/wp-content/uploads/2024/03/salsa.jpg" alt="Ballet">
+
 
     <section>
       <h3>Hip Hop</h3>
       <p>Estilo urbano con movimientos libres, improvisación y energía. Muy popular entre los jóvenes.</p>
     </section>
+    <img src="https://lacapillacultural.com/wp-content/uploads/2024/03/salsa.jpg" alt="Ballet">
   </main>
 
   <footer>
