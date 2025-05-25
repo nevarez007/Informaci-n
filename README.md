@@ -24,7 +24,7 @@
      <img src="https://www.factoryballet.com/modules/prestablog/views/img/grid-for-1-7/up-img/4.jpg" alt="Ballet">
     <section>
     
-      <a href="https://nevarez007.github.io/Danza/index.html">Flamenco</a>
+      <a href="https://nevarez007.github.io/Flamenco/">Flamenco</a>
       <p>Estilo apasionado de origen español que combina zapateado, palmas y movimientos intensos del cuerpo.</p>
     </section>
     <img src="https://www.utrgv.edu/claa/_files/images/fig-11-flamenco.jpg" alt="Flamenco">
