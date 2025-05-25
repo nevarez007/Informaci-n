@@ -19,7 +19,7 @@
     <h2>Conoce los estilos que enseñamos</h2>
     
     <section>
-      <a>Ballet</a>
+      <h3>Ballet</h3>
       <p>Danza clásica que combina gracia, técnica y expresión corporal. Ideal para desarrollar postura y disciplina.</p>
     </section>
      <img src="https://www.factoryballet.com/modules/prestablog/views/img/grid-for-1-7/up-img/4.jpg" alt="Ballet">
