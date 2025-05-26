@@ -51,7 +51,7 @@
       <a href="https://nevarez007.github.io/Danza/index.html">Hip-Hop</a>
       <p>Estilo urbano con movimientos libres, improvisación y energía. Muy popular entre los jóvenes.</p>
     </section>
-    <img src="https://historiasdeladanza.com/wp-content/uploads/2023/07/hip-hop-1-1024x683.jpg" alt="Hip-Hop">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/B-boy_breakdancing.jpg" alt="Hip-Hop">
   </main>
 
   <footer>
