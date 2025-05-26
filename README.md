@@ -35,7 +35,7 @@
     <img src="https://lh5.googleusercontent.com/proxy/lNS7b3MI9F2xG2d3y9u2Q9CltZJ4OeRtv540BC75zNRUBQcefz8QB_Y_5m5Lq7d4qYHW5LFPpxn3K1SrO5h7oYxINOi9xBTX_bpqJ-9UZDv33pkTOJxE_bWk7TEf8_kjr6rcq7lMPyIsLGHCyBeXVoAzDw" alt="Jazz">
 
     <section>
-      <a href="https://nevarez007.github.io/Danza/index.html">Tango</a>
+      <a href="https://nevarez007.github.io/Tango/">Tango</a>
       <p>Danza sensual de origen argentino, se caracteriza por sus pasos elegantes y conexión entre los bailarines.</p>
     </section>
      <img src="https://centroculturalborges.gob.ar/wp-content/uploads/2023/03/Joha-y-David-b-Johana-Copes-1-1-1.jpg" alt="Tango">
