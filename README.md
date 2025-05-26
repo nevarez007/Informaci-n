@@ -41,7 +41,7 @@
      <img src="https://centroculturalborges.gob.ar/wp-content/uploads/2023/03/Joha-y-David-b-Johana-Copes-1-1-1.jpg" alt="Tango">
 
     <section>
-      <a href="https://nevarez007.github.io/Danza/index.html">Salsa</a>
+      <a href="https://nevarez007.github.io/Salsa/">Salsa</a>
       <p>Estilo latino lleno de ritmo y alegría. Se baila en pareja y es muy popular en fiestas y academias.</p>
     </section>
     <img src="https://lacapillacultural.com/wp-content/uploads/2024/03/salsa.jpg" alt="Salsa">
