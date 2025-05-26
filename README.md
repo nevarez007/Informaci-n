@@ -29,7 +29,7 @@
     <img src="https://www.utrgv.edu/claa/_files/images/fig-11-flamenco.jpg" alt="Flamenco">
 
     <section>
-      <a href="https://nevarez007.github.io/Danza/index.html">Jazz</a>
+      <a href="https://nevarez007.github.io/Jazz/">Jazz</a>
       <p>Estilo moderno con gran energía y movimientos rápidos. Combina técnica y libertad expresiva.</p>
     </section>
     <img src="https://lh5.googleusercontent.com/proxy/lNS7b3MI9F2xG2d3y9u2Q9CltZJ4OeRtv540BC75zNRUBQcefz8QB_Y_5m5Lq7d4qYHW5LFPpxn3K1SrO5h7oYxINOi9xBTX_bpqJ-9UZDv33pkTOJxE_bWk7TEf8_kjr6rcq7lMPyIsLGHCyBeXVoAzDw" alt="Jazz">
